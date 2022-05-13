@@ -1,0 +1,15 @@
+C:\workspace\rpg-game-objects\bin\Debug\net6.0\rpg-game-objects.exe
+C:\workspace\rpg-game-objects\bin\Debug\net6.0\rpg-game-objects.deps.json
+C:\workspace\rpg-game-objects\bin\Debug\net6.0\rpg-game-objects.runtimeconfig.json
+C:\workspace\rpg-game-objects\bin\Debug\net6.0\rpg-game-objects.dll
+C:\workspace\rpg-game-objects\bin\Debug\net6.0\rpg-game-objects.pdb
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\rpg-game-objects.csproj.AssemblyReference.cache
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\rpg-game-objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\rpg-game-objects.AssemblyInfoInputs.cache
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\rpg-game-objects.AssemblyInfo.cs
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\rpg-game-objects.csproj.CoreCompileInputs.cache
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\rpg-game-objects.dll
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\refint\rpg-game-objects.dll
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\rpg-game-objects.pdb
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\rpg-game-objects.genruntimeconfig.cache
+C:\workspace\rpg-game-objects\obj\Debug\net6.0\ref\rpg-game-objects.dll
